@@ -31,7 +31,7 @@ Curated list of the best free resources for learning "System Design".
   1. [Getting started with system design](https://www.geeksforgeeks.org/system-design/getting-started-with-system-design/)
   2. [Functional vs non functional requirements](https://www.geeksforgeeks.org/software-engineering/functional-vs-non-functional-requirements/)
   3. [Difference between high-level design and low-level design](https://www.geeksforgeeks.org/system-design/difference-between-high-level-design-and-low-level-design/)
-- Course 2 name → [Link](url)
+- High Level Design → [Link](url)
 
 
 
