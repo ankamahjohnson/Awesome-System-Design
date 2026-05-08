@@ -2,7 +2,7 @@
 Curated list of the best free resources for learning "System Design". 
 
 # A lil Introduction to System Design: 
-"System Design" is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements. This specifically designed System Design tutorial will help you to learn and master System Design concepts in the most efficient way, from the basics to the advanced level.
+"System Design" is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements.
 
 ## Table of Contents:
 - [Basics](#basics)
