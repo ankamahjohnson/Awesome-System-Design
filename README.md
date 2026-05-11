@@ -1,5 +1,5 @@
 # Awesome-System-Design
-Curated list of the best free resources for learning "System Design". 
+Curated list of the best free resources for learning "System Design." 
 
 # A lil Introduction to System Design: 
 "System Design" is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements.
